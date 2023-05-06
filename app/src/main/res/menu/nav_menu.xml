@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/signUpAlreadyRegisteredButton"
+        android:icon="@drawable/baseline_login_24"
+        android:title="Login"  />
+    <item
+        android:id="@+id/loginNotRegisteredButton"
+        android:icon="@drawable/baseline_app_registration_24"
+        android:title="Sign up" />
+</menu>

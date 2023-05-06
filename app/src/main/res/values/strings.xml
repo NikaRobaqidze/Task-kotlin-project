@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KotlinTaskProject</string>
+
+    <string name="welcome_user">Welcome</string>
+    <string name="enter_link">Enter link</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="change_photo">Change photo</string>
+    <string name="update_password">Update password</string>
+    <string name="sign_out">Exit</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="send_link_to_email">Send link to email</string>
+    <string name="restore_profile">Restore profile</string>
+
+</resources>
